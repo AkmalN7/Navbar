@@ -78,7 +78,7 @@ const App = ({open, setOpen}) => {
                     </Form.Item>
 
                     <Form.Item>
-                        <Button htmlType={"submit"} className={"w-100"} type={"primary"}> Saqlash </Button>
+                        <Button htmlType={"submit"} className={"w-100"} type={"primary"}> Save </Button>
                     </Form.Item>
                 </Form>
             </Drawer>
