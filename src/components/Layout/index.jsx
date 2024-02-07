@@ -25,7 +25,7 @@ const App = () => {
                     <h2 >Logo</h2>
                 </div>
                 <Menu
-                    theme="dark"
+                    theme="yellow"
                     mode="inline"
                     defaultSelectedKeys={['1']}
                     onClick={(e)=>navigate(e.key)}
