@@ -20,7 +20,7 @@ const App = () => {
     } = theme.useToken();
     return (
         <Layout style={{height:"100vh"}}>
-            <Sider style={{background: 'lightblue'}} trigger={null} collapsible collapsed={collapsed}>
+            <Sider style={{background: 'yellow'}} trigger={null} collapsible collapsed={collapsed}>
                 <div className="demo-logo-vertical text-center text-white" >
                     <h2 >Logo</h2>
                 </div>
